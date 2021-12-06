@@ -1,4 +1,4 @@
-### <h1> Hey peeps!, I'm Moin Bagban.👋 </h1>
+### <h1> Hey Peeps!, I'm Moin Bagban.👋 </h1>
 
 <img align='right' alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="320" />
 
