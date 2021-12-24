@@ -31,10 +31,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/moin_bagban" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="the_rahul_k" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/moin-bagban" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rahul-kushwaha-98a0980205" height="30" width="40" /></a>
-<a href="https://fb.com/moin.bagban.56" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="rahulkushwaha01" height="30" width="40" /></a>
-<a href="https://instagram.com/moeen_1051" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="the._.rahul_" height="30" width="40" /></a>
+<a href="https://twitter.com/moin_bagban" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="moin_bagban" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/moin-bagban" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="moin-bagban" height="30" width="40" /></a>
+<a href="https://fb.com/moin.bagban.56" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="moin.bagban.56" height="30" width="40" /></a>
+<a href="https://instagram.com/moeen_1051" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="moeen_1051" height="30" width="40" /></a>
 </p>
 
 
